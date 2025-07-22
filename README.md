@@ -9,4 +9,4 @@ Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglassenG&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglassenG&repo=DouglassenG.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
