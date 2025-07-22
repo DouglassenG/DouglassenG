@@ -11,3 +11,7 @@ Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglassenG&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglassenG&repo=portfolio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglassenG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
