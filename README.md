@@ -15,9 +15,15 @@ Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglassenG&theme=tokyonight)](https://github.com/DouglassenG/github-readme-stats)
 
+# Estrutura do GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglassenG&show_icons=true&theme=dark)
+# Estrutura do LinkedIn:
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/douglas-michelini/)
+
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/douglas-michelini/)
+
 
 
 
