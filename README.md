@@ -13,12 +13,13 @@ Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglassenG&theme=tokyonight&layout=compact)](https://github.com/DouglassenG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglassenG&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/douglas-michelini/)
+
 
 
 
