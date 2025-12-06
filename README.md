@@ -9,7 +9,7 @@ Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglassenG&repo=clone_disneyplus&theme=dark)](https://github.com/DouglassenG/clone_disneyplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglassenG&repo=clone_disneyplus&theme=dark)](https://clone-disneyplus-ruby-kappa.vercel.app)
 
 ### Linguagens utilizadas
 
@@ -19,6 +19,7 @@ Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/douglas-michelini/)
+
 
 
 
