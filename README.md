@@ -1,7 +1,9 @@
 ﻿### Olá 👋
 
 ###### Sobre o Douglas
-💻 Sou Engenheiro Full-stack em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, atuando também como Engenheiro Front-end no Desenvolvimento de Sites e Desenvolvimento de Interfaces WEB. Possuo proficiência em HTML (HTML5), CSS3 e JavaScript (ES6+), aplicando lógica de Programação Orientada a Objetos. Tenho experiência com qualquer framework moderno, como React.js, Next.js, Vue.js, Bootstrap e Tailwind CSS.
+💻 Engenheiro Full-stack pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. 
+🚀 Estudante de Engenharia de software 3/8 - Gran Faculdade.
+Atuando também como Engenheiro Front-end no Desenvolvimento de Sites e Desenvolvimento de Interfaces WEB. Possuo proficiência em HTML (HTML5), CSS3 e JavaScript (ES6+), aplicando lógica de Programação Orientada a Objetos. Tenho experiência com qualquer framework moderno, como React.js, Next.js, Vue.js, Bootstrap e Tailwind CSS.
 
 ### Detalhes
 
