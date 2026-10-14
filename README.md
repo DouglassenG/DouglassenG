@@ -2,7 +2,7 @@
 
 ###### Sobre o Douglas
 💻 Engenheiro Full-stack pela EBAC – Escola Britânica de Artes Criativas e Tecnologia.  
-🚀 Estudante de Engenharia de software 3/8 - Gran Faculdade.  
+🚀 Estudante de Engenharia de software 4/8 - Gran Faculdade.  
 Atuando também como Desenvolvedor Full-stack Java em Sites e Desenvolvimento de Interfaces WEB. Possuo proficiência em HTML (HTML5), CSS3 e JavaScript (ES6+), JAVA, aplicando lógica de Programação Orientada a Objetos. Tenho experiência com qualquer framework moderno, como React.js, Next.js, Vue.js, Bootstrap e Tailwind CSS.
 
 ### Detalhes
